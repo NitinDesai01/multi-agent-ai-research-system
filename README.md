@@ -280,7 +280,7 @@ This makes the workflow more modular, easier to understand, and easier to extend
 
 ## 👨‍💻 Author
 
-**Tanjal Kumar**
+**Nitin Desai**
 
 Built as a hands-on project focused on:
 
